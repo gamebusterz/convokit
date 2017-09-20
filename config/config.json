@@ -1,5 +1,5 @@
 {
-"data":"/home/anshul/chatbot_trial/",
+"data":"config/",
 "model":"/home/anshul/models/",
 "entity_classifier":"elasticsearch",
 "elasticsearch_host":"0.0.0.0",
